@@ -12,7 +12,7 @@ Build a responsive page based on the designs.
 
 Read the `data.json` file and display the data as tabs on desktop and an accordion on mobile.
 
-###### Explantion on `banana`
+## Explantion on `banana`
 
 - Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
 
